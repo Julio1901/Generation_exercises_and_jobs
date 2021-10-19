@@ -16,7 +16,7 @@ val validate = ValidatesUserInteractions()
 
 fun main() {
 
-    val NUMBER_OF_POPULATION = 3
+    val NUMBER_OF_POPULATION = 20
     val LOW_INCOME_DELIMITER = 100.0f
     var individualSalary : Float
     var numberOfChildren : Int
