@@ -31,27 +31,32 @@ fun main() {
     var totalDeIngressosComprados = 0
     var valorTotalCompra = 0.0
 
-    var idadeUsuario : Int
+    var idadeUsuario: Int
 
     println("Por favor, entre com sua idade: ")
     idadeUsuario = readLine()!!.toInt()
 
-    if (idadeUsuario < 5){
-        valorTotalCompra = PRECO_INGRECO - ((PRECO_INGRECO / 100) * PORCENTAGE_DESCONTO_INFANTIL)
-    }else if (idadeUsuario > 60){
-        valorTotalCompra = PRECO_INGRECO - ((PRECO_INGRECO / 100) * PORCENTAGE_DESCONTO_IDOSOS)
-    }else{
+    if (idadeUsuario < 5) {
+        valorTotalCompra =
+            PRECO_INGRECO - ((PRECO_INGRECO / 100) * PORCENTAGE_DESCONTO_INFANTIL)
+    } else if (idadeUsuario > 60) {
+        valorTotalCompra =
+            PRECO_INGRECO - ((PRECO_INGRECO / 100) * PORCENTAGE_DESCONTO_IDOSOS)
+    } else {
         valorTotalCompra = PRECO_INGRECO
 
         println("Por favor, entre com o número de ingressos que deseja comprar: ")
         totalDeIngressosComprados = readLine()!!.toInt()
 
-        if(totalDeIngressosComprados > 1){
-            valorTotalCompra = (PRECO_INGRECO - ((PRECO_INGRECO / 100) * PORCENTAGE_DESCONTO_QUANTIDADE)) * totalDeIngressosComprados
+        if (totalDeIngressosComprados > 1) {
+            valorTotalCompra =
+                (PRECO_INGRECO - ((PRECO_INGRECO / 100) * PORCENTAGE_DESCONTO_QUANTIDADE)) * totalDeIngressosComprados
         }
     }
 
-    println("Sua idade é $idadeUsuario" +
-            "\nO valor total do ingresso será: R$$valorTotalCompra")
+    println(
+        "Sua idade é $idadeUsuario" +
+                "\nO valor total do ingresso será: R$$valorTotalCompra"
+    )
 
 }

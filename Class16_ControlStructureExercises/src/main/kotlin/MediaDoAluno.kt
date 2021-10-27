@@ -6,7 +6,8 @@
 - Regular se a média for maior que 4 e menor ou igual a 5
 - Boa se a média for maior do que 5 e menor ou igual a 8
 - Excelente se a média for maior do que 8 e menor ou igual a 10
-- Se a média der um número negativo ou     uma nota fora da escala de 0 a 10, deverá ser printado média inválida
+- Se a média der um número negativo ou     uma nota fora da escala de 0 a 10, deverá
+* ser printado média inválida
 *
 * */
 
