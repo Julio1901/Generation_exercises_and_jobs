@@ -23,6 +23,7 @@
 - [x] Aula 15:  NomeandoVariaveis
 - [x] Aula 15: CirculoAreaPerimetro
 - [x] Aula 16: Class16_ControlStructureExercises
+- [x] Aula 17: Class17_LoopingControl
 - [ ] TCC Aplicação Mobile Android
 
 
