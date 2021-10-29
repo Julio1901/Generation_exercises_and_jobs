@@ -24,6 +24,8 @@
 - [x] Aula 15: CirculoAreaPerimetro
 - [x] Aula 16: Class16_ControlStructureExercises
 - [x] Aula 17: Class17_LoopingControl
+- [x] Aula 18: Class18_Functions
+- [x] Aula 19: Class19_Collections
 - [ ] TCC Aplicação Mobile Android
 
 
