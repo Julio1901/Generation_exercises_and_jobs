@@ -17,7 +17,7 @@
 
 
 ### Projetos realizados até agora: 
-i
+
 - [x] [Aula 09: Refatoração de exercícios de laços e condições do portugol para Kotlin](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class09_ExercisesBondsAndConditions)
 - [x] [Aula 14: FirstKotlinGenerationProject](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class14_FirstKotlinGenerationProject)
 - [x] [Aula 15:  NomeandoVariaveis](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class15_NomeandoVariaveis)
