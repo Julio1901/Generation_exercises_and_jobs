@@ -26,6 +26,8 @@
 - [x] Aula 17: Class17_LoopingControl
 - [x] Aula 18: Class18_Functions
 - [x] Aula 19: Class19_Collections
+- [x] Aula 20: Class20_POO
+- [X] [Aula 21: Class21_Encapsulation](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class21_Encapsulation/src/main/kotlin)
 - [ ] TCC Aplicação Mobile Android
 
 
