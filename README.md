@@ -17,16 +17,16 @@
 
 
 ### Projetos realizados até agora: 
-
-- [x] Aula 09: Refatoração de exercícios de laços e condições do portugol para Kotlin
-- [x] Aula 14: FirstKotlinGenerationProject
-- [x] Aula 15:  NomeandoVariaveis
-- [x] Aula 15: CirculoAreaPerimetro
-- [x] Aula 16: Class16_ControlStructureExercises
-- [x] Aula 17: Class17_LoopingControl
-- [x] Aula 18: Class18_Functions
-- [x] Aula 19: Class19_Collections
-- [x] Aula 20: Class20_POO
+i
+- [x] [Aula 09: Refatoração de exercícios de laços e condições do portugol para Kotlin](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/exercisesBondsAndConditions)
+- [x] [Aula 14: FirstKotlinGenerationProject](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/FirstKotlinGenerationProject)
+- [x] [Aula 15:  NomeandoVariaveis](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/NomeandoVariaveis)
+- [x] [Aula 15: CirculoAreaPerimetro](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/CirculoAreaPerimetro)
+- [x] [Aula 16: Class16_ControlStructureExercises](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class16_ControlStructureExercises)
+- [x] [Aula 17: Class17_LoopingControl](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class17_LoopingControl)
+- [x] [Aula 18: Class18_Functions](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class18_functions)
+- [x] [Aula 19: Class19_Collections](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class19_Collections)
+- [x] [Aula 20: Class20_POO](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class20_POO)
 - [X] [Aula 21: Class21_Encapsulation](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class21_Encapsulation/src/main/kotlin)
 - [ ] TCC Aplicação Mobile Android
 
