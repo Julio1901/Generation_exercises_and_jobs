@@ -5,8 +5,6 @@
 
 <!--ts-->
 
-*[Sobre](#sobre)
-*[Como usar](#como-usar)
 
 <!--te-->
 
