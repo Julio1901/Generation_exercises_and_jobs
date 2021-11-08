@@ -27,6 +27,7 @@
 - [x] [Aula 20: Class20_POO](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class20_POO)
 - [X] [Aula 21: Class21_Encapsulation](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class21_Encapsulation/src/main/kotlin)
 - [X] [Aula 22: Class22_HeritageAndPolymorphism](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class22_HeritageAndPolymorphism)
+- [X] [Aula 23: Class23_UnitTests](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class23_UnitTests)
 - [ ] TCC Aplicação Mobile Android
 
 
