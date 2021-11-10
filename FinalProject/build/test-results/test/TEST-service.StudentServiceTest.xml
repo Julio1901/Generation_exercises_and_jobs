@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.StudentServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-10T13:18:23" hostname="DESKTOP-VLQBU5O" time="0.221">
+  <properties/>
+  <testcase name="isSubscribed()" classname="service.StudentServiceTest" time="0.221"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
