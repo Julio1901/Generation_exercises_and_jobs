@@ -30,8 +30,8 @@
 - [X] [Aula 23: Class23_UnitTests](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class23_UnitTests)
 - [X] [Aula 24: kotlin module final project](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/FinalProject)
 - [X] [Final project Kotlin module](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/FinalProject)
-- [X] [Class26_FirstAndroidProject]((https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class26_FirstAndroidProject)
-- [X] [Class27_FirstLoginActivity]((https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class27_FirstLoginActivity)
+- [X] [Class26_FirstAndroidProject](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class26_FirstAndroidProject)
+- [X] [Class27_FirstLoginActivity](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class27_FirstLoginActivity)
 - [ ] TCC Aplicação Mobile Android
 
 
