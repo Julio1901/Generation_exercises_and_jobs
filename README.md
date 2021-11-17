@@ -32,6 +32,7 @@
 - [X] [Final project Kotlin module](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/FinalProject)
 - [X] [Class26_FirstAndroidProject](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class26_FirstAndroidProject)
 - [X] [Class27_FirstLoginActivity](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class27_FirstLoginActivity)
+- [X] [Class28_RollingDice](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class28_RollingDice)
 - [ ] TCC Aplicação Mobile Android
 
 
