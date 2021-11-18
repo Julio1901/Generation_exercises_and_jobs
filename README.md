@@ -33,6 +33,7 @@
 - [X] [Class26_FirstAndroidProject](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class26_FirstAndroidProject)
 - [X] [Class27_FirstLoginActivity](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class27_FirstLoginActivity)
 - [X] [Class28_RollingDice](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class28_RollingDice)
+- [X] [Class29_TipCalculation](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class29_TipCalculation)
 - [ ] TCC Aplicação Mobile Android
 
 
