@@ -34,6 +34,8 @@
 - [X] [Class27_FirstLoginActivity](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class27_FirstLoginActivity)
 - [X] [Class28_RollingDice](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class28_RollingDice)
 - [X] [Class29_TipCalculation](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class29_TipCalculation)
+- [X] [Class29_Affirmations](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class29_Affirmations)
+- [X] [Class30_CodeLabActivitiesAndIntents](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class30_CodeLabActivitiesAndIntents)
 - [ ] TCC Aplicação Mobile Android
 
 
