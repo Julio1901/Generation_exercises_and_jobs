@@ -36,6 +36,7 @@
 - [X] [Class29_TipCalculation](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class29_TipCalculation)
 - [X] [Class29_Affirmations](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class29_Affirmations)
 - [X] [Class30_ActivitiesAndIntents](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class30_ActivitiesAndIntents)
+- [X] [Class31_LiveDataAndViewModel](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class31_LiveDataAndViewModel)
 - [ ] TCC Aplicação Mobile Android
 
 
