@@ -37,6 +37,7 @@
 - [X] [Class29_Affirmations](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class29_Affirmations)
 - [X] [Class30_ActivitiesAndIntents](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class30_ActivitiesAndIntents)
 - [X] [Class31_LiveDataAndViewModel](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class31_LiveDataAndViewModel)
+- [X] [Class32_SharedViewModel](https://github.com/Julio1901/Generation_exercises_and_jobs/tree/master/Class32_SharedViewModel)
 - [ ] TCC Aplicação Mobile Android
 
 
